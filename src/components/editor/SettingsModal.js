@@ -155,7 +155,7 @@ export default function SettingsModal() {
             <KeyBindingDetail/>
             <div className="h5 fw-normal mt-4 mb-0 w-100">
                 <a href="https://github.com/Blocks-Editor/blocks" target="_blank" rel="noreferrer" className="p-2 rounded text-secondary small w-100">
-                    Blocks is currently in open beta.
+                    Octane is currently in open beta.
                 </a>
             </div>
 
