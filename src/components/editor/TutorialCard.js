@@ -153,7 +153,7 @@ export default function TutorialCard() {
     }
     if(!familiarity) {
         return (
-            <HelperCard title="New to Blocks?" hideCloseButton={true}>
+            <HelperCard title="New to Octane Builder?" hideCloseButton={true}>
                 <ButtonGroup className="d-flex">
                     <Button variant="success" {...onLeftClick(onAccept)}>Start Tutorial</Button>
                     <Button variant="" className="text-muted" {...onLeftClick(onDecline)}>Skip</Button>
